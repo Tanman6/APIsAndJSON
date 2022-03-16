@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.20
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIsAndJSON", "APIsAndJSON\APIsAndJSON.csproj", "{706C6E3C-7537-4FEC-8445-64FBEBF7272E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{706C6E3C-7537-4FEC-8445-64FBEBF7272E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{706C6E3C-7537-4FEC-8445-64FBEBF7272E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{706C6E3C-7537-4FEC-8445-64FBEBF7272E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{706C6E3C-7537-4FEC-8445-64FBEBF7272E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8388D71C-7A9D-4638-94A5-6CD9EDBF03B4}
+	EndGlobalSection
+EndGlobal
